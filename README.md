@@ -2,7 +2,7 @@
  Vlan,Password, Hostname,Logging
  
  
- ![LAB](images/Lab1.png)
+ ![LAB](Lab1.png)
  
 
  
