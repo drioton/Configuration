@@ -1,5 +1,10 @@
 # Configuration
- Vlan,Password, Hostname,Logging, SSH, Duplex, Speed
+ Vlan,Password, Hostname,Logging
+ 
+ 
+ ![LAB](Lab1.png)
+ 
+
  
  <b>Privilege mode</b> --> entry  
  <b>Console</b> --> console  
@@ -13,7 +18,7 @@
  time out  10 min
  no ip domain-lookup  
  
- ## Switch 1
+ ### Switch 1 
  
  ```
  enable
@@ -89,7 +94,7 @@ line vty 5 15
  ```
  
  
- ## Add Users
+ ### Add Users
  
  
  <b>user</b> Tyler <b>password</b> blue  
@@ -143,6 +148,7 @@ username Ivan privilege 1 password 7 0833494A
 username Martin privilege 1 password 7 083644471D1C
 username Tyler privilege 1 password 7 0823405B0C
 ```
+ 
  
  
  
