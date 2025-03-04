@@ -2,7 +2,7 @@
  Vlan,Password, Hostname,Logging
  
  
- ![LAB](Lab1.png)
+ ![LAB](images/Lab1.png)
  
 
  
@@ -15,7 +15,7 @@
 
  
  loggig sychnronous  
- time out  10 min
+ time out  10 min   
  no ip domain-lookup  
  
  ### Switch 1 
